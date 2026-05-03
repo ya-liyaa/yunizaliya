@@ -2,5 +2,5 @@
 
 - Memahami dasar jaringan dan konfigurasi
 - Latihan praktik (IP, server, dan troubleshooting)
-- Meningkatkan skill penggunaan Linux
+- Menjaga konsistensi dan tanggung jawab dalam setiap tugas
 - Lebih aktif saat praktik di lab
