@@ -1,0 +1,6 @@
+#  WPU Resolusi 
+
+- Memahami dasar jaringan dan konfigurasi
+- Latihan praktik (IP, server, dan troubleshooting)
+- Meningkatkan skill penggunaan Linux
+- Lebih aktif saat praktik di lab
